@@ -31,7 +31,7 @@
 // }
 // console.log(value);
 
-let array = [0, 1, 2, 3, 4, 5];
+let array = [1, 4, 11, 2, 37, -4];
 
 let value = false;
 for (let i = 0; i < array.length; i++) {
@@ -43,5 +43,4 @@ for (let i = 0; i < array.length; i++) {
     }
   }
 }
-
 console.log(value);
